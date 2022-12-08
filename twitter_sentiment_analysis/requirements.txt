@@ -1,0 +1,9 @@
+tweepy==3.8.0
+matplotlib
+flask
+textblob
+nltk
+seaborn
+pandas
+numpy
+wordcloud

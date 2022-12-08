@@ -1,0 +1,55 @@
+omricon => Positive: 23.68421052631579
+=> Negative: 11.842105263157896
+=> Neutral: 64.47368421052632omricon => Positive: 23.376623376623378
+=> Negative: 11.688311688311689
+=> Neutral: 64.93506493506494omricon => Positive: 23.376623376623378
+=> Negative: 11.688311688311689
+=> Neutral: 64.93506493506494omricon => Positive: 23.076923076923077
+=> Negative: 11.538461538461538
+=> Neutral: 65.38461538461539omricon => Positive: 23.076923076923077
+=> Negative: 11.538461538461538
+=> Neutral: 65.38461538461539omricon => Positive: 23.076923076923077
+=> Negative: 11.538461538461538
+=> Neutral: 65.38461538461539omricon => Positive: 23.076923076923077
+=> Negative: 11.538461538461538
+=> Neutral: 65.38461538461539omricon => Positive: 24.137931034482758
+=> Negative: 12.64367816091954
+=> Neutral: 63.218390804597696phone => Positive: 31.0
+=> Negative: 15.0
+=> Neutral: 54.0omricon => Positive: 24.137931034482758
+=> Negative: 12.64367816091954
+=> Neutral: 63.218390804597696omricon => Positive: 24.137931034482758
+=> Negative: 12.64367816091954
+=> Neutral: 63.218390804597696omricon => Positive: 23.25581395348837
+=> Negative: 12.790697674418604
+=> Neutral: 63.95348837209303omricon => Positive: 24.137931034482758
+=> Negative: 12.64367816091954
+=> Neutral: 63.218390804597696children => Positive: 23.0
+=> Negative: 17.0
+=> Neutral: 60.0job => Positive: 35.0
+=> Negative: 12.0
+=> Neutral: 53.0omricon => Positive: 23.25581395348837
+=> Negative: 12.790697674418604
+=> Neutral: 63.95348837209303children => Positive: 18.0
+=> Negative: 8.0
+=> Neutral: 74.0america => Positive: 26.0
+=> Negative: 12.0
+=> Neutral: 62.0omricon => Positive: 23.25581395348837
+=> Negative: 12.790697674418604
+=> Neutral: 63.95348837209303omricon => Positive: 24.137931034482758
+=> Negative: 12.64367816091954
+=> Neutral: 63.218390804597696omricon => Positive: 24.137931034482758
+=> Negative: 12.64367816091954
+=> Neutral: 63.218390804597696omricon => Positive: 23.25581395348837
+=> Negative: 12.790697674418604
+=> Neutral: 63.95348837209303omricon => Positive: 23.25581395348837
+=> Negative: 12.790697674418604
+=> Neutral: 63.95348837209303omricon => Positive: 23.25581395348837
+=> Negative: 12.790697674418604
+=> Neutral: 63.95348837209303omricon => Positive: 23.25581395348837
+=> Negative: 12.790697674418604
+=> Neutral: 63.95348837209303omricon => Positive: 24.137931034482758
+=> Negative: 12.64367816091954
+=> Neutral: 63.218390804597696omricon => Positive: 23.25581395348837
+=> Negative: 12.790697674418604
+=> Neutral: 63.95348837209303
